@@ -1,2 +1,0 @@
-Нужно изменить линки на css файлы в index.html
-style.css == style.min.css
